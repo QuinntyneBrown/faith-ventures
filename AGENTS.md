@@ -7,12 +7,6 @@ The following description was supplied when this file was generated, quoted for 
 Full stack web platform and marketing site using .NET on backend and Angular on frontend for a community of Christian technologists building high quality faith based ventures for Toronto and GTA
 ```
 
-## Speed Is Not the Goal
-
-Quality and completeness beat finishing fast. Finish the whole task - edge cases,
-error paths, no stubs or `TODO`s. If it is bigger than it looked, complete it and
-say what it cost rather than quietly narrowing scope.
-
 ## Technology
 
 - Use .NET for the API.

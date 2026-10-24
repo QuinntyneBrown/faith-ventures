@@ -4,7 +4,7 @@
 
 The following description was supplied when this file was generated, quoted for reference:
 ```text
-Full stack web platform and marketing site using .NET on backend and Angular on frontend for a communitnuty of Chirstian technologists building high quality faith based ventures for Toronto and GTA
+Full stack web platform and marketing site using .NET on backend and Angular on frontend for a community of Christian technologists building high quality faith based ventures for Toronto and GTA
 ```
 
 ## Speed Is Not the Goal

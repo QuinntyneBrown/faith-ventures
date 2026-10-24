@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photoshoot Map"
+  short_description: "Illustrated shoot routes for outdoors and interiors"
+  default_prompt: "Use $photoshoot-map to create an illustrated photoshoot map for the location I provide."
